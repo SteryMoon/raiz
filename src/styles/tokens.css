@@ -1,0 +1,28 @@
+:root {
+  --mata: #163C2E;
+  --mata-2: #1F5040;
+  --verde: #3F7D5C;
+  --verde-cl: #8FBFA1;
+
+  --azul: #14607F;
+  --azul-cl: #3E90AE;
+
+  --bege: #EFE6D5;
+  --bege-2: #E0D3B8;
+  --papel: #F7F2E8;
+  --linha: #D8CDB6;
+
+  --tinta: #1E2A24;
+  --tinta-2: #5F6F65;
+  --tinta-3: #8B9990;
+
+  --ambar: #B07714;
+  --risco: #A33B2A;
+
+  --fonte-titulo: 'Bricolage Grotesque', 'IBM Plex Sans', sans-serif;
+  --fonte-ui: 'IBM Plex Sans', system-ui, sans-serif;
+  --fonte-dado: 'IBM Plex Mono', monospace;
+
+  --raio: 7px;
+  --raio-sm: 6px;
+}
