@@ -11,8 +11,6 @@ npm install
 npm run dev
 ```
 
-Abre em http://localhost:5173
-
 ## Estrutura
 
 ```
